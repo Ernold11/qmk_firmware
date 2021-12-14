@@ -30,7 +30,7 @@
 #define DESCRIPTION     Royal Kludge RK71 RGB ISO
 /* key matrix size */
 #define MATRIX_ROWS 5
-#define MATRIX_COLS 16
+#define MATRIX_COLS 17
 
 #define DIODE_DIRECTION COL2ROW
 

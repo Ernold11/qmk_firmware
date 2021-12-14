@@ -4,7 +4,6 @@ Royal Kludge RK71 ISO (Sonix SN32F240B)
 
 Layout by:
 [ISO] [Alexander Frank](https://github.com/jedifindtrick)
-[ANSI] [rus] (https://github.com/stdvar)
 
 Based on Redragon K566 by: [Adam Honse](https://github.com/CalcProgrammer1), Kemove DK63 by: [Stephen Peery](https://github.com/smp4488) and Keychron K4 by: [Dimitris Mantzouranis](https://github.com/dexter93)
 Hardware Supported: SN32F248BF
